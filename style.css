@@ -1,0 +1,14 @@
+.container{
+    padding: 25px;
+}
+h3{
+    color: rgb(113, 44, 249);
+}
+body {
+margin-left: 30%;
+width: 40%;
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+}
